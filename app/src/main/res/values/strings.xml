@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Connect Game</string>
+    <string name="connect_R">CONNECT</string>
+    <string name="topLeftCornor">TODO</string>
+    <string name="topMiddleCornor_R">TODO</string>
+    <string name="topRightCornor_R">TODO</string>
+    <string name="middleLeftCornor_R">TODO</string>
+    <string name="middleCornor_R">TODO</string>
+    <string name="middleRightCornor_R">TODO</string>
+    <string name="lowerLeftCornor_R">TODO</string>
+    <string name="lowerMiddleCornor_R">TODO</string>
+    <string name="lowerRightCornor_R">TODO</string>
+    <string name="button">PLAY AGAIN</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
